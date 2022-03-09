@@ -23,7 +23,7 @@ tags: [ SOM, decalcification, protein extraction ]
 1. Using a laminar flow hood, wipe down completely with 10% bleach.
 2. Weigh ~1g cleaned ground coral skeleton powder into Falcon tube.  Open powder tube only in glove bag to minimize contamination.
 	a. You must use specifically Falcon tubes.  Other tubes contain polymers that leach during decalcification and interfere with enzymatic digestion before sequencing.
-3. Add 15 ml 0.5 M acetic acid.  Vortex.  
+3. Add 15 ml 0.5M acetic acid.  Vortex.  
 4. Close the tube with parafilm and shake gently (~30 rpm) at room temperature (RT) for 2 hours, subsequently open the tube to release gasses.  Tube should be angled to allow maximum mixing of powder and acid.
 * Acid-insoluble organic matrix (IOM) will appear as a fluffy/floaty white substance before centrifugation.  It will pellet upon centrifugation.
 * Supernatants can be combined for each sample.
